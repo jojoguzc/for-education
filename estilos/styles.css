@@ -1,0 +1,294 @@
+.container-fluid-yellow {
+  background-color: #FDC800;
+}
+.container-fluid-yellow a {
+  text-decoration: none;
+  color: #212529;
+  font-family: "Inter", sans-serif;
+  font-weight: bold;
+}
+
+.container-fluid-gray {
+  background-color: #F0F4F9;
+}
+.container-fluid-gray img {
+  padding-left: 4rem;
+}
+.container-fluid-gray .b-first {
+  background-color: #FDC800;
+  font-family: "Inter", sans-serif;
+  margin-top: 1rem;
+  margin-right: 1rem;
+  color: #002147;
+  width: 10rem;
+  height: 3rem;
+  font-size: 1rem;
+}
+
+.nav-link-a {
+  color: #002147;
+  font-family: "Inter", sans-serif;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.navbar-toggler-icon {
+  color: #002147;
+}
+
+.container-fluid-presentation {
+  background-color: #F0F4F9;
+  height: 35rem;
+}
+.container-fluid-presentation h1 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: #002147;
+  width: 33rem;
+  font-size: 2.5rem;
+}
+.container-fluid-presentation h2 {
+  font-family: "Inter", sans-serif;
+  font-weight: bold;
+  color: #002147;
+}
+.container-fluid-presentation .b-first {
+  background-color: #FDC800;
+  font-family: "Inter", sans-serif;
+  color: #002147;
+  margin-top: 1rem;
+  margin-right: 1rem;
+  width: 10rem;
+  height: 3rem;
+  font-size: 1rem;
+}
+.container-fluid-presentation .b-second {
+  border: #757575 0.1rem;
+  background-color: #ffffff;
+  color: #002147;
+  font-family: "Inter", sans-serif;
+  width: 10rem;
+  height: 3rem;
+  font-size: 1rem;
+}
+.container-fluid-presentation img {
+  padding-left: 12rem;
+}
+
+#clock {
+  background-color: #002147;
+  width: 60rem;
+  height: 10rem;
+  margin-top: -6%;
+}
+#clock h2 {
+  width: 20rem;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: #F0F4F9;
+  padding-top: 3rem;
+}
+#clock h2 .a {
+  color: #FDC800;
+}
+
+.navbar-gray {
+  padding-right: 7rem;
+}
+
+#demo {
+  font-family: "Inter", sans-serif;
+  color: #F0F4F9;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+#top-feat {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 3rem;
+  font-weight: bold;
+  color: #002147;
+}
+
+.card-body h5 {
+  font-family: "Inter", sans-serif;
+  font-size: 1rem;
+  color: #002147;
+}
+.card-body p {
+  font-family: "Inter", sans-serif;
+  font-size: 0.7rem;
+  color: #757575;
+}
+.card-body div.espacio {
+  height: 8rem;
+}
+
+.text-white {
+  background: #002147;
+  font-family: "Inter", sans-serif;
+}
+.text-white h5 {
+  font-size: 1.5rem;
+}
+.text-white a {
+  font-size: 1rem;
+}
+
+.col-md-2.col-lg-2.col-xl-2.mt-3.text-start {
+  margin-left: 220px;
+}
+
+.logo {
+  margin-top: -4rem;
+  width: 3rem;
+  border: 5px solid #F0F4F9;
+}
+
+.bg-warning {
+  justify-content: space-between;
+}
+
+.otroestilo-c {
+  color: #FDC800;
+}
+
+.body-c {
+  background-color: #F0F4F9;
+}
+
+.kim {
+  width: 85%;
+  padding-left: 5rem;
+}
+
+.texto-c {
+  font-family: "Inter", sans-serif;
+  font-size: 0.8rem;
+  color: #757575;
+  margin-top: 0;
+  margin-bottom: 1rem;
+  margin-right: 5rem;
+}
+
+.h2-c {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 3rem;
+  font-weight: bold;
+  color: #002147;
+}
+
+.h3-c {
+  font-size: 0.85rem;
+  color: #002147;
+}
+
+.card-title-c {
+  font-size: 0.85rem;
+  color: #002147;
+}
+
+.card-text-c {
+  font-family: "Inter", sans-serif;
+  font-size: 0.7rem;
+  color: #757575;
+  margin-top: 0;
+  margin-bottom: 1rem;
+  margin-right: 5rem;
+}
+
+.img-fluid-c {
+  max-width: 66%;
+  height: auto;
+}
+
+.rowpru {
+  background-image: url("../assets/img/map.png");
+  background-size: 53% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  align-items: center;
+}
+
+.infor {
+  font-family: "Inter", sans-serif;
+  font-size: 16px;
+  color: #00B2B2;
+}
+
+.num {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 60px;
+  color: #002147;
+  font-weight: bold;
+}
+
+.sub {
+  font-family: "Inter", sans-serif;
+  font-weight: bold;
+  font-size: 16px;
+  color: #FDC800;
+}
+
+.formulario {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 48px;
+  font-weight: bold;
+  color: #002147;
+}
+
+.Forms0s button {
+  background: #FDC800;
+  border: none;
+  padding: 10px;
+}
+
+input[type=email] {
+  padding: 1.1%;
+}
+
+.mail-direction a {
+  font-size: 1 rem;
+}
+.mail-direction img {
+  width: 1rem;
+}
+
+@media (max-width: 800px) {
+  .h2-c {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+    color: #002147;
+  }
+
+  .texto-c {
+    font-family: "Inter", sans-serif;
+    font-size: 0.7rem;
+    color: #757575;
+    margin: 1rem;
+    padding: 0rem;
+  }
+
+  .card-text-c {
+    font-family: "Inter", sans-serif;
+    font-size: 0.7rem;
+    color: #757575;
+    margin: 1rem;
+  }
+
+  .kim {
+    width: 100%;
+    padding-left: 0rem;
+  }
+
+  .img-fluid-c {
+    max-width: 100%;
+    height: auto;
+  }
+}
+@media (max-width: 1024px) {
+  .rowpru {
+    background-image: none;
+    align-items: center;
+  }
+}/*# sourceMappingURL=styles.css.map */

@@ -1,0 +1,321 @@
+$titulos-font: Georgia, 'Times New Roman', Times, serif;
+$textos-font: 'Inter', sans-serif;
+$dark-blue: #002147;
+$dark-gray: #757575;
+$light-gray: #F0F4F9;
+$yellow: #FDC800;
+$verde-agua: #00B2B2;
+
+.container-fluid-yellow {
+    background-color: $yellow;
+    a {
+        text-decoration:none;
+        color:#212529;
+        font-family:$textos-font;
+        font-weight: bold;
+        
+    }
+}
+
+.container-fluid-gray {
+    background-color: $light-gray;
+    img {
+        padding-left: 4rem;
+    }
+
+    .b-first {
+        background-color: $yellow;
+        font-family: $textos-font;
+        margin-top:1rem;
+        margin-right: 1rem;
+        color:$dark-blue;
+        width: 10rem;
+        height: 3rem;
+        font-size: 1rem;
+      
+
+    }
+   
+
+}
+
+
+.nav-link-a {
+    color: $dark-blue;
+    font-family: $textos-font;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.navbar-toggler-icon {
+    color: $dark-blue;
+}
+    
+.container-fluid-presentation {
+    background-color: $light-gray;
+    height: 35rem;
+    h1{
+        font-family: $titulos-font;
+        color:$dark-blue;
+        width: 33rem;
+        font-size: 2.5rem;
+    }
+    h2 {
+        font-family: $textos-font;
+        font-weight: bold;
+        color:$dark-blue;
+        
+    }
+
+    .b-first {
+        background-color: $yellow;
+        font-family: $textos-font;
+        color:$dark-blue;
+        margin-top:1rem;
+        margin-right: 1rem;
+        width: 10rem;
+        height: 3rem;
+        font-size: 1rem;
+
+    }
+    .b-second {
+       
+        border: $dark-gray 0.1rem;
+        background-color: #ffffff;
+        color:$dark-blue;
+        font-family: $textos-font;
+        width: 10rem;
+        height: 3rem;
+        font-size: 1rem;
+    }
+    img {
+        
+        padding-left: 12rem;
+    }
+
+}  
+
+#clock {
+    background-color: $dark-blue;
+    width: 60rem;
+    height: 10rem;
+    margin-top: -6%;
+    h2 {
+        width: 20rem;
+        font-family: $titulos-font;
+        color:$light-gray;
+        padding-top: 3rem;
+        
+        .a {
+            color:$yellow;
+        }
+    }
+
+    }
+
+    .navbar-gray {
+        padding-right: 7rem ;
+    }
+
+ #demo {
+        font-family: $textos-font;
+        color:$light-gray;
+        font-size: 2rem;
+        font-weight: bold;
+
+    }
+#top-feat{
+    font-family: $titulos-font;
+    font-size: 3rem;
+    font-weight: bold;
+    color: $dark-blue;
+}
+
+.card-body{
+    h5{
+        font-family: $textos-font;
+        font-size: 1rem;
+        color:$dark-blue;
+    }
+    p{
+        font-family: $textos-font;
+        font-size: 0.7rem;
+        color: $dark-gray;
+    }
+    div.espacio{
+        height: 8rem;
+    }
+    
+}
+
+.text-white{
+    background: $dark-blue;
+    font-family: $textos-font;
+
+    h5{
+        font-size: 1.5rem;
+    }
+    a{
+        font-size: 1rem;
+
+    }
+} 
+
+.col-md-2.col-lg-2.col-xl-2.mt-3.text-start{
+    margin-left:220px;
+}
+
+
+
+.logo{
+    margin-top: -4rem;
+    width: 3rem;
+    border: 5px solid $light-gray;
+}
+
+.bg-warning{
+    justify-content: space-between;
+}
+    
+
+.otroestilo-c {
+    color: $yellow;
+}
+.body-c {
+    background-color: $light-gray;
+}
+
+.kim {
+   width: 85%;
+   padding-left: 5rem;
+}
+.texto-c{
+    font-family: $textos-font;
+    font-size: 0.8rem;
+    color: $dark-gray;
+    margin-top: 0;
+    margin-bottom: 1rem;
+    margin-right: 5rem;
+}
+.h2-c{
+    font-family: $titulos-font;
+    font-size: 3rem;
+    font-weight: bold;
+    color: $dark-blue;
+}
+.h3-c {
+    font-size: 0.85rem;
+    color:$dark-blue;
+}
+.card-title-c{
+    font-size: 0.85rem;
+    color:$dark-blue;
+}
+
+.card-text-c {
+    font-family: $textos-font;
+    font-size: 0.7rem;
+    color: $dark-gray;
+    margin-top: 0;
+    margin-bottom: 1rem;
+    margin-right: 5rem;
+}
+.img-fluid-c{
+    max-width: 66%;
+    height: auto;
+}
+
+
+.rowpru {
+    background-image: url('../assets/img/map.png');
+    background-size: 53% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    align-items: center;
+}
+
+.infor {
+    font-family: $textos-font;
+    font-size: 16px;
+    color: $verde-agua;
+}
+
+.num {
+    font-family: $titulos-font;
+    font-size: 60px;
+    color: $dark-blue;
+    font-weight: bold;
+}
+
+.sub {
+    font-family: $textos-font;
+    font-weight: bold;
+    font-size: 16px;
+    color: $yellow;
+}
+
+.formulario {
+    font-family: $titulos-font;
+    font-size: 48px;
+    font-weight: bold;
+    color: $dark-blue;
+}
+
+.Forms0s button {
+    background: $yellow;
+    border: none;
+    padding: 10px;
+}
+
+input[type="email"] {
+    padding: 1.1%;
+}
+
+.mail-direction{
+    a{
+        font-size: 1 rem;
+    }
+    img{
+        width:1rem;
+    }
+}
+
+
+@media (max-width: 800px) {
+    .h2-c{
+        font-family: $titulos-font;
+        font-size: 2rem;
+        font-weight: bold;
+        text-align: center;
+        color: $dark-blue;
+    }
+    .texto-c{
+        font-family: $textos-font;
+        font-size: 0.7rem;
+        color: $dark-gray;
+        margin: 1rem;
+        padding: 0rem;
+    }
+    .card-text-c {
+        font-family: $textos-font;
+        font-size: 0.7rem;
+        color: $dark-gray;
+        margin: 1rem;
+    }
+    .kim {
+        width: 100%;
+        padding-left: 0rem;
+    }
+    .img-fluid-c{
+        max-width: 100%;
+        height: auto;
+    }
+  }
+
+  @media (max-width: 1024px) {
+    .rowpru {
+        background-image: none;
+        align-items: center;
+    }
+  }
+  
